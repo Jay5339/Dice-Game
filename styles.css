@@ -1,17 +1,29 @@
 .container {
   width: 70%;
   margin: auto;
-  text-align: center;
+ 
 }
+
+.btn{
+  
+  margin-top: 3%;
+}
+.social {
+  margin-right: 1.5%;
+  font-size: 2rem;
+
+  margin-top: 5%;
+}
+
 
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
   background-color: #393E46;
+  text-align: center;
 }
 
 h1 {
@@ -32,10 +44,12 @@ img {
   width: 80%;
 }
 
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
-  text-align: center;
-  font-family: 'Indie Flower', cursive;
+.footer {
+  font-size: 1rem;
+  color: #4ECCA3;
+  margin-top: 1.5%;
+ 
+  font-family: "Montserrat",sans-serif;
+  
 
 }
