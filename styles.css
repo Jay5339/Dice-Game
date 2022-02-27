@@ -1,10 +1,9 @@
 .container {
   width: 70%;
   margin: auto;
- 
 }
 
-.btn{
+.btn {
   text-align: center;
   margin-top: 3%;
 }
@@ -15,29 +14,28 @@
   margin-top: 5%;
 }
 
-
 .dice {
   text-align: center;
   display: inline-block;
 }
 
 body {
-  background-color: #393E46;
+  background-color: #393e46;
   text-align: center;
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
+  font-family: "Lobster", cursive;
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #4ecca3;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
-  font-family: 'Indie Flower', cursive;
+  color: #4ecca3;
+  font-family: "Indie Flower", cursive;
 }
 
 img {
@@ -46,10 +44,8 @@ img {
 
 .footer {
   font-size: 1rem;
-  color: #4ECCA3;
+  color: #4ecca3;
   margin-top: 1.5%;
- 
-  font-family: "Montserrat",sans-serif;
-  
 
+  font-family: "Montserrat", sans-serif;
 }
